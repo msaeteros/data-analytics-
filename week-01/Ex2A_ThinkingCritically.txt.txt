@@ -1,0 +1,42 @@
+Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+
+1. How did the author choice to include in their common breakup comfort foods?
+2. Since they checked during Valentina's day, Does the common breakup comfort food change based on month, holiday or festival? 
+3. Can the web browser being used such as Safari. Edge, or Google Chrome, affect the search result for breakup comfort food?
+
+Where can you find Google Trends search data? Provide the URL. https://trends.google.com/trends/ 
+
+3. Milkshake (beverage)
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+The highest peak where for February 28,2024 and Dec 2024 at 100 
+b) What is the lowest dip recorded?
+The lowest dip recorded is for April to August 2024 
+
+4. Hamburger (Food)
+a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+Highest: April 30-May31,2024 
+Lowest: Nov 30-Dec 31,2024 
+b) What happened to the line for Milkshake? What do the high and low look like now?
+The line for the milk decreased to a 0 popularity 
+
+5. Why did the line for Milkshake change?
+This is because when you add a new search item the Interest Over time adjusts to the item being search. Although the search item that was original there information data doesn't actual change (only changes because new item was add to search).
+
+6. Add a third term to your search, this time for Breakup (Topic).
+a) Do you see any patterns that suggest a relationship between searches for Breakup and Hamburger?
+I don't necessarily see a pattern but someone searching up Hamburger might not be going through a breakup. Meaning their could not be any relationship between someone searching up Hamburger and a breakup.
+
+b) How about between Breakup and Milkshake?
+On Google Trends is shows they fall under the line timeline line but it doesn't mean they relate to each other when looked up. Meaning people don't needed to be looking up Milkshakes due to a break up.
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+
+From this one can conclude that the information given by the article might not be reliable. This is because Google trends shows popular search interest rather than actual common food consumptions. Also this popular search could have no relations or evidence that a person is looking up theses foods due to a breakup. 
+
+8. a) What was the top state by interest for Milkshake?
+Top State: Pennsylvania 
+b) What was the top state by interest for Hamburger?
+Top State: Alaska 
