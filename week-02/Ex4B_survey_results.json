@@ -1,0 +1,93 @@
+[
+	{
+		"SurveyID" : 1,
+		"StartTime" : "10/15/26 1:27 PM",
+		"CompletionTime" : "10/15/26 1:28 PM",
+		"Email" : "ilee@my.yearupunited.org",
+		"Name" : "idasha lee",
+		"VisitFrequency" : "Weekly",
+		"OrderItem" : "Coffee or TeaÂ ;Pastry / BakeryÂ ",
+		"SatisfactionRating" : 4,
+		"PreferredReward" : "Free Pastries, Birthday Rewards, Purchase Point systemÂ ",
+		"Suggestions" : "Id love if the wait time wasn't so long but other than that the quality of the items are great.",
+		"ProgramInterest" : "Yes, definitely"
+	},
+	{
+		"SurveyID" : 2,
+		"StartTime" : "10/16/26 1:27 PM",
+		"CompletionTime" : "10/16/26 1:28 PM",
+		"Email" : "amrapshtija@my.yearupunited.org",
+		"Name" : "ardita mrapshtija",
+		"VisitFrequency" : "A few times a Month",
+		"OrderItem" : "SandwichesÂ ",
+		"SatisfactionRating" : 5,
+		"PreferredReward" : "Free PastriesÂ ",
+		"Suggestions" : "Mobile app",
+		"ProgramInterest" : "Maybe, depending on the rewards"
+	},
+	{
+		"SurveyID" : 3,
+		"StartTime" : "10/17/26 1:27 PM",
+		"CompletionTime" : "10/17/26 1:28 PM",
+		"Email" : "dsacko@my.yearupunited.org",
+		"Name" : "djeneba sacko",
+		"VisitFrequency" : "A few times a Month",
+		"OrderItem" : "Coffee or TeaÂ ;Pastry / BakeryÂ ",
+		"SatisfactionRating" : 3,
+		"PreferredReward" : "Free PastriesÂ ",
+		"Suggestions" : "Offering deals like. Buy one, get one free promotions.",
+		"ProgramInterest" : "Yes, definitely"
+	},
+	{
+		"SurveyID" : 4,
+		"StartTime" : "10/18/26 1:27 PM",
+		"CompletionTime" : "10/18/26 1:28 PM",
+		"Email" : "jcarter1@my.yearupunited.org",
+		"Name" : "jada carter",
+		"VisitFrequency" : "Daily",
+		"OrderItem" : "Coffee or TeaÂ ;Pastry / BakeryÂ ;SandwichesÂ ",
+		"SatisfactionRating" : 5,
+		"PreferredReward" : "Purchase Point system, Free Drinks, Free PastriesÂ ",
+		"Suggestions" : "Wait times especially if I placed my order ahead of time/ scheduled 30 minute-1hour ahead of time",
+		"ProgramInterest" : "Maybe, depending on the rewards"
+	},
+	{
+		"SurveyID" : 5,
+		"StartTime" : "10/19/26 1:27 PM",
+		"CompletionTime" : "10/19/26 1:28 PM",
+		"Email" : "cspringer@my.yearupunited.org",
+		"Name" : "christopher springer",
+		"VisitFrequency" : "A few times a Month",
+		"OrderItem" : "RefreshmentsÂ ;SandwichesÂ ",
+		"SatisfactionRating" : 5,
+		"PreferredReward" : "Free Drinks, Purchase Point system, Birthday Rewards, Free PastriesÂ ",
+		"Suggestions" : "Create more in restaurant seating!",
+		"ProgramInterest" : "Yes, definitely"
+	},
+	{
+		"SurveyID" : 6,
+		"StartTime" : "10/20/26 1:27 PM",
+		"CompletionTime" : "10/20/26 1:28 PM",
+		"Email" : "dmendez1@my.yearupunited.org",
+		"Name" : "denae mendez",
+		"VisitFrequency" : "A few times a Month",
+		"OrderItem" : "Pastry / BakeryÂ ",
+		"SatisfactionRating" : 4,
+		"PreferredReward" : "Free Drinks, Free Pastries, Birthday Rewards, Purchase Point systemÂ ",
+		"Suggestions" : "More dessert options",
+		"ProgramInterest" : "No"
+	},
+	{
+		"SurveyID" : 7,
+		"StartTime" : "10/21/26 1:27 PM",
+		"CompletionTime" : "10/21/26 1:28 PM",
+		"Email" : "awhite@my.yearupunited.org",
+		"Name" : "aalexus white",
+		"VisitFrequency" : "A few times a Month",
+		"OrderItem" : "Pastry / BakeryÂ ;SandwichesÂ ;RefreshmentsÂ ;Coffee or TeaÂ ",
+		"SatisfactionRating" : 5,
+		"PreferredReward" : "Free Pastries, Purchase Point systemÂ ",
+		"Suggestions" : "Add a rewards program for loyal customers.",
+		"ProgramInterest" : "Yes, definitely"
+	}
+]
