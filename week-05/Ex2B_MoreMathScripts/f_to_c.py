@@ -5,4 +5,4 @@ Fahrenheit = float(input('What is the temperature in Fahrenheit? '))
 Celsius = (5/9) * (Fahrenheit - 32)
 
 #Display Result 
-print(f'The temperature in celsius is {Celsius:.2f} degress.')
+print(f'The temperature in celsius is {Celsius:.2f}')
